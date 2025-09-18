@@ -3,7 +3,6 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Biografía</title>
     </head>
 <h1>Proyecto personal: página web HTML + CSS</h1>
       <h2>Presentación</h2>
@@ -20,7 +19,6 @@
             </ol>
             <p>Puedes ver mi experiencia y formación en mi <a href="www.linkedin.com/in/cristinaglezcal" target="_blank">perfil de LinkedIn</a>.</p>
           <p>Vengo de un ámbito formativo y profesional completamente diferente y eso supone un reto a nivel de nuevos aprendizajes para mí y de adaptación a un mundo laboral completamente diferente, a la vez que una oportunidad de utilizar todas las herramientas adquiridas estos años a nivel formativo y laboral de una manera transversal y dirigida a esta nueva etapa.</p>
-          <br>
           <br>
           <br>
           <p><b>¡Nos vemos pronto en las aulas!</b></p>
